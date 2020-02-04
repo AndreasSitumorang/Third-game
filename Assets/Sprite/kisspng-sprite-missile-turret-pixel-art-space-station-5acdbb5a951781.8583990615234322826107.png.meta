@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: c09ac87e959996345936caee7221f2b6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_0
+    21300002: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_1
+    21300004: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_2
+    21300006: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_3
+    21300008: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_4
+    21300010: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_5
+    21300012: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_6
+    21300014: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_7
+    21300016: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_8
+    21300018: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_9
+    21300020: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_10
+    21300022: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_11
+    21300024: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_12
+    21300026: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_13
+    21300028: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_14
+    21300030: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_15
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_0
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1660
+        width: 128
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597a4eed882b09d4bb523bfed7c72425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_1
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1645
+        width: 187
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638ae1a3adb85d34aada8ee1f2db2541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_2
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1752
+        width: 278
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0458870d916063746aff5914199ec7a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_3
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1638
+        width: 375
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ec427bede51f44cb617bf4d5b3024b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_4
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1650
+        width: 179
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71935e21deda7ac47998dc0d17a0083a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1260
+        width: 310
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0296032a64f9a014698cc3834df3c7e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_6
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1251
+        width: 137
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885935da448596146aeeac6e8ed881ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_7
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1349
+        width: 388
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e429506fe0d0445a14bb25b04fa32b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_8
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1227
+        width: 350
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588faf0a750533f409c41685434bbc9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_9
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1243
+        width: 127
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac146009fcf5f3478a345202b5f0f46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 881
+        width: 285
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beba6ad35b079b4b9e71fca377125f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_11
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 821
+        width: 174
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fcd116233557e48a5e2385da80e02f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_12
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 839
+        width: 287
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725530a070b10f940a232a490278c999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_13
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 971
+        width: 380
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31eab6e86a0c1714da72f2f0f5530885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_14
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 818
+        width: 334
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99afec22d526df34bafc9f916053b78c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-missile-turret-pixel-art-space-station-5acdbb5a951781.8583990615234322826107_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 458
+        width: 379
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171062ffdb4cbdc4c80cbe07b9f6a732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e907273b47869040817039b6f1e7338
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
